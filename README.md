@@ -62,6 +62,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 + [Russian](/free-courses-ru.md)
 + [Spanish](/free-courses-es.md)
 + [Vietnamese](/free-courses-vi.md)
++ [Bengali](/free-courses-en.md)
 
 
 ### Interactive Programming Resources
